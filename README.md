@@ -18,7 +18,7 @@ Static web apps ,  SQL database
 
 
 Project Link (GitHub repository URL): 
-https://sameerrepos.github.io/TICKETSBORROW/
+https://github.com/Sameerrepos/TICKETSBORROW
 
 Project Demo URL: *
 https://sameerrepos.github.io/TICKETSBORROW/
