@@ -18,10 +18,10 @@ Static web apps ,  SQL database
 
 
 Project Link (GitHub repository URL): 
-https://github.com/sameercse-123/TICKETSBORROW
+https://sameerrepos.github.io/TICKETSBORROW/
 
 Project Demo URL: *
-https://sameercse-123.github.io/TICKETSBORROW/
+https://sameerrepos.github.io/TICKETSBORROW/
 
 Project Demo Video URL:*
 https://drive.google.com/file/d/1sxGGBdN6Xgtl-uSgLCqkouTIcRiFzTmc/view?usp=drivesdk
