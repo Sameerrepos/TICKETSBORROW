@@ -24,4 +24,5 @@ Project Demo URL: *
 https://sameerrepos.github.io/TICKETSBORROW/
 
 Project Demo Video URL:*
-https://drive.google.com/file/d/1sxGGBdN6Xgtl-uSgLCqkouTIcRiFzTmc/view?usp=drivesdk
+
+https://github.com/Sameerrepos/TICKETSBORROW
