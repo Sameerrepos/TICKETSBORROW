@@ -12,6 +12,8 @@ So you can see my code also.
 THIS IS MY GitHub LINK
 *To save money and paper printing and to avoid any kind of disease that can be attacked to individuals...! *I am trying to solve money problem *I have seen that passenger tickets doesn't contain PNR number with any kind of passenger name on ticket and people are wasting money , so I have made a opportunity where people can save money and give the same ticket to any other passenger , so that they don't waste money even a single rupee by avoiding going and asking to other passengers by hand by hand so that they can re use their already booked PASSENGER ticket and uploading their NAME and details of there ticket in my website going to same route from SOURCE to DESTINATION Location .
 
+please remember this is just a modal website.
+
 
 Azure technologies used
 Static web apps ,  SQL database 
