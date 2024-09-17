@@ -1,4 +1,110 @@
-<!DOCTYPE html>  
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>grabyourTicketASAP</title>
+    <style>
+        .color1 {
+            background-color: green;
+            color: white;
+        }
+        .bgimage {
+            background-image: url("the Ashok Chakra.jpg");
+            background-repeat: no-repeat;
+            background-position: center;
+        }
+        .bgcolor {
+            background-color: aqua;
+        }
+        .bg {
+            background-color: green;
+            float: left;
+        }
+        marquee {
+            font-size: large;
+            color: white;
+        }
+        fieldset {
+            border: 2px solid green;
+            padding: 10px;
+            margin: 20px;
+        }
+        legend {
+            font-weight: bold;
+            text-decoration: underline;
+        }
+        input[type="text"] {
+            margin-bottom: 10px;
+            padding: 5px;
+        }
+    </style>
+</head>
+<body>
+    <center>
+        <div>
+            <marquee bgcolor="orange"><h1>Modal Registration for Emergency Ticket Grab</h1></marquee>
+        </div>
+
+        <h2 bgcolor="white">Registration Form</h2>
+
+        <form name="RegForm" onsubmit="return Register()" method="post">
+            <fieldset>
+                <legend>ENTER JOURNEY DETAILS</legend>
+                <label for="receiver-giver">Enter whether TICKET RECEIVER OR GIVER:</label><br>
+                <select id="receiver-giver" name="Subject">
+                    <option>-Select-</option>
+                    <option>Borrower</option>
+                    <option>Giver</option>
+                </select><br><br>
+
+                <label for="first-name">Enter FIRST name:</label><br>
+                <input type="text" id="first-name" name="Name"><br>
+
+                <label for="ticket-no">Your ticket no:</label><br>
+                <input type="text" id="ticket-no" name="ticketno"><br>
+
+                <label for="route">Enter your ROUTE:</label><br>
+                <input type="text" id="route" name="route"><br>
+
+                <label for="source-place">Enter your source place name:</label><br>
+                <input type="text" id="source-place" name="sourcePlace"><br>
+
+                <label for="destination-place">Enter your destination place name:</label><br>
+                <input type="text" id="destination-place" name="destinationPlace"><br>
+
+                <label for="source-time">Enter your source place timing:</label><br>
+                <input type="text" id="source-time" name="sourceTime"><br>
+
+                <label for="destination-time">Enter your destination place timing:</label><br>
+                <input type="text" id="destination-time" name="destinationTime"><br>
+
+                <label for="current-location">Enter your current location:</label><br>
+                <input type="text" id="current-location" name="currentLocation"><br>
+
+                <label for="additional-info">Additional info (not mandatory):</label><br>
+                <input type="text" id="additional-info" name="additionalInfo"><br><br>
+
+                <input type="button" value="Submit" onclick="alert('Successfully submitted')">
+                <input type="reset" value="Reset">
+            </fieldset>
+        </form>
+
+        <div class="color1">
+            <marquee bgcolor="white"><b>Modal DEVELOPED BY SAMEER SHAIK (copyright)</b></marquee>
+            <p>Developed through various sources... if the user has any queries please share your feedback with us at shaiksameerpkl@gmail.com. Designed to help people find the needy person to give or take a ticket so that we all can save time, money, and paper, and avoid misgathering in various places to take care of any disease situations at present and future. We are a part of humanity. Let's unite and help each other. One who cancels their journey because of any situation after buying the ticket can give the ticket to a needy person without wasting it.</p>
+            <p>Additional info input format:</p>
+            <img src="IMG_20230520_214153.jpg" alt="Additional Information">
+        </div>
+    </center>
+</body>
+</html>
+
+
+
+
+
+
+/*<!DOCTYPE html>  
  <html>  
  <head>  
   <title>grabyourTicketASAP</title>  
@@ -136,3 +242,4 @@ additional info input format
  </body>
 </center>
  </html>
+*/
